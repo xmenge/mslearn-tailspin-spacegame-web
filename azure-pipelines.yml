@@ -54,14 +54,14 @@ steps:
 
 
 # - task: DotNetCoreCLI@2
-#   displayName: 'Build the project - $(buildConfiguration)'
+#   displayName: 'Build project - $(buildConfiguration)'
 #   inputs:
 #     command: 'build'
 #     arguments: '--no-restore --configuration $(buildConfiguration)'
 #     projects: '**/*.csproj'
 
 # - task: DotNetCoreCLI@2
-#   displayName: 'Publish the project - $(buildConfiguration)'
+#   displayName: 'Publish project - $(buildConfiguration)'
 #   inputs:
 #     command: 'publish'
 #     arguments: '--no-build --configuration $(buildConfiguration) --output $(Build.ArtifactStagingDirectory)/Release'
