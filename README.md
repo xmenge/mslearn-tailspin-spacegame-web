@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/gl3465/Space%20Game%20-%20web%20-%20Workflow/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/gl3465/Space%20Game%20-%20web%20-%20Workflow/_build/latest?definitionId=5&branchName=master)
+[![Build Status](https://dev.azure.com/gl3465/Space%20Game%20-%20web%20-%20Tests/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/gl3465/Space%20Game%20-%20web%20-%20Tests/_build/latest?definitionId=6&branchName=master)
 
 # Contributing
 
